@@ -1,0 +1,2 @@
+# ManagedOracleClientAsyncPerformanceIssue
+Compares synchronous vs asynchronous read operations using Oracle.ManagedDataAccess.Core
